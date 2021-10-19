@@ -3,6 +3,7 @@ import todos from './apis';
 import Form from './components/Form';
 import Section from './components/Section';
 import List from './components/List';
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const appTitle = 'Houssem To-Do App';
 
